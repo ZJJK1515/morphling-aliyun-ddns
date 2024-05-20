@@ -1,0 +1,8 @@
+aliyun:
+  accessKeyId: yourkey
+  accessSecret: yoursecret
+server:
+  port: 8081
+
+ddns:
+  domain: yourdomain
